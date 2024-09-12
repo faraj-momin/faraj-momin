@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @faraj-momin
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics & FrontEnd Development
 - 💞️ I’m looking for internship to enhance my knowledge in Data field
 - 📫 You can reach me through email: farajmomin2020@gmail.com
